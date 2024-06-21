@@ -1,9 +1,12 @@
-import React from 'react'
+// pages/services.tsx
+import Head from 'next/head';
+import Services from '@/components/Services';
 
-const Services = () => {
+
+const ServicesPage = () => {
   return (
-    <div>Services</div>
-  )
-}
+    <Services />
+  );
+};
 
-export default Services
+export default ServicesPage;
