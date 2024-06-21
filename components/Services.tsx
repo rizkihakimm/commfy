@@ -1,4 +1,3 @@
-// components/Services.tsx
 const Services = () => {
   return (
     <section className="services py-20">
