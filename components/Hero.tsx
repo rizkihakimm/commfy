@@ -9,7 +9,7 @@ const Hero = () => {
     
     <div className='relative z-20 flex flex-1 flex-col xl:w-1/2'>
       
-      <h1 className='bold-52 lg:bold-72'>Curug Bogor</h1>
+      <h1 className='bold-52 lg:bold-72'>Highland Camp Curug Panjang</h1>
       <p className='regular-16 mt-6 text-gray-30 xl:max-w[520px]'>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed nisi lacus sed viverra tellus in hac. Tellus pellentesque eu tincidunt tortor. Ac auctor augue mauris augue neque gravida in fermentum et.
       </p>
